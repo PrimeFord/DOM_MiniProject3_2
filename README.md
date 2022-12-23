@@ -21,7 +21,7 @@ Clone or download this repository and run with a local server of open `index.htm
 
 ## Demo
 
-[Preview Here](https://rawcdn.githack.com/PrimeFord/DOM_MiniProject3_1/a0cdfc43e3f8df3223fd078225596357ce2f1a99/index.html)
+[Preview Here](https://rawcdn.githack.com/PrimeFord/DOM_MiniProject3_2/886b64386b01bbfa42024eecec0899d7892ed7a3/index.html)
 
 ![screenshot](./media/snip.png)
 
